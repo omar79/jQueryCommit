@@ -1,0 +1,22 @@
+
+body {
+	margin: 0 auto;
+	border:3px solid black;
+	font-family: 
+}
+	h1 {
+		margin-left: 165px;	
+		margin-bottom: 0px;
+		}
+
+	button {
+		vertical-align: top;
+		margin-left: 10px;
+		box-shadow: 4px 4px 1px 0px;
+		display: inline-block;
+		}
+
+	p {
+		margin-left: 129px;
+		display: inline-block;
+		}

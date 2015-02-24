@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang "en"> 
+
+<head>
+	<meta charset = "UTF-8">
+	<title> JQuery </title>
+	<meta name = "description"  content = 'JQuery'>
+	<link rel = 'stylesheet', type = 'text/css' href = 'J-Query.css'
+	
+
+
+</head> 
+
+<body>
+	<div id = 'container'> 
+		<img src="basic-jquery.png">
+		<div class = 'AddClass'>
+			<h1> Add Class </h1>
+			<button>AddClass</button>
+			<p> Click the button to add class 'red' to this paragraph. </p> 
+		</div> 
+
+		<div class = 'SlideToggle'>
+			<h1> SlideToggle </h1> 
+			<p> CLick the button to slidetoggle a hidden image </p>
+			<input id = 'Append' type = 'submit' value = 'Append'> 
+		</div>
+
+	</div>
+</body> 
+
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script> S<document).ready (function() {
+		$('button', ).click(function); {
+			alert('You have clicked a button!');
+		}
+	});
